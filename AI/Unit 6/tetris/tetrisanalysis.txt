@@ -1,0 +1,10 @@
+1. It took me 3 generations to get a strategy that scored over 50,000. 
+It took me approximately 20 minutes to run through these 3 generations.
+
+2. -0.10867599924055399: highest column height, 0.2741779058071612: deepest well depth, -0.8740916824292018: # of holes, 
+0.22710471869186688 points scored on recent move, -0.1648262013773838: bumpiness.
+I was surprised that this strategy hardly values the highest column height because I thought that the higher the highest column is,
+the more likely the game was to quickly result in a GAME OVER. However, I expected the number of holes to be valued more and negative as it was.
+
+3. I really enjoyed this assignment, I had so much fun watching it play tetris over and over again getting better each time (the highest score I ever reached in one game was about 150,000). 
+It was not at all easy nor was it too difficult, and I strongly reccomend that you keep it for next year and the years to come.
